@@ -29,3 +29,5 @@ lvim.plugins = {
 	},
 }
 lvim.builtin.treesitter.rainbow.enable = true
+
+lvim.builtin.nvimtree.setup.view.side ="right"
